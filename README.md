@@ -15,6 +15,7 @@ code：twy8
 
 # Citation
 If you find the code helpful in your research or work, please cite the following paper:
+
 @inproceedings{hui2022source,
   title={Source camera identification with multi-scale feature fusion network},
   author={Hui, Chen and Jiang, Feng and Liu, Shaohui and Zhao, Debin},
