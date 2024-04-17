@@ -1,6 +1,9 @@
 # MSFFN
 Source camera identification with multi-scale feature fusion network (ICME 2022). For more details, please refer to the paper [here](https://ieeexplore.ieee.org/abstract/document/9859965).
 
+# Experimental results
+![image](https://github.com/JackChenChen/MSFFN/assets/15177486/b2dd7e6d-721c-47cb-8720-7db74c55745d)
+
 # Dataset (A public dataset for source identification)
 dataset used in the MSFFN
 
