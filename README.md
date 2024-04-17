@@ -1,4 +1,4 @@
-# MSFFN
+# "Source camera identification with multi-scale feature fusion network" (MSFFN)
 "Source camera identification with multi-scale feature fusion network" (ICME 2022). For more details, please refer to the paper [here](https://ieeexplore.ieee.org/abstract/document/9859965).
 
 # Experimental results
